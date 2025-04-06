@@ -1,0 +1,21 @@
+": [
+    {
+      "title": "Sony WH-1000XM5 Wireless Headphones",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg",
+      "price": "$398.00",
+      "link": "https://www.amazon.com/dp/B09X9VR1VD?tag=avantsgardetr-20"
+    },
+    {
+      "title": "Echo Dot (5th Gen)",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61u48FEswFL._AC_SL1000_.jpg",
+      "price": "$49.99",
+      "link": "https://www.amazon.com/dp/B09B8V8YKP?tag=avantsgardetr-20"
+    },
+    {
+      "title": "Kindle Paperwhite",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61jzGSnA2ZL._AC_SL1000_.jpg",
+      "price": "$139.99",
+      "link": "https://www.amazon.com/dp/B08KTZ8249?tag=avantsgardetr-20"
+    }
+  ]
+}
